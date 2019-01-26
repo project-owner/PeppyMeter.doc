@@ -1,3 +1,3 @@
 # PeppyMeter.doc
 
-PeppyMeter documentation.
+PeppyMeter documentation https://github.com/project-owner/PeppyMeter.doc/wiki
